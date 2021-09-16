@@ -10,4 +10,4 @@ I extended the framework to adapt 3D medical image. In addition, A novel attenti
 
 Current segmentation resutls: 
 3D UNET : 85% dice; 
-Attention  UNET with 3 cliks: 89% dice 
+**Attention  UNET with 3 cliks: 89% dice**
